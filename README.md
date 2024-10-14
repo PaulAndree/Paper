@@ -1,7 +1,6 @@
 
 <h3 align="center">Adaptive Learning Assessment Enhanced by Language Models </h3>
 
-<p align="center">
 Abstract. We present an educational framework that automates the
 generation and assessments of questionnaires without domain-specific
 and language constraints by leveraging Natural Language Processing
@@ -25,4 +24,3 @@ transferring the structured knowledge of Bloom’s Taxonomy into
 LMs. This enables the generation of high-quality, difficulty-leveled questions
 without domain-specific constraints, thus promoting efficient and
 adaptive learning experiences.
-</p>
