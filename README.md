@@ -1,7 +1,9 @@
 
 <h3 align="center">Adaptive Learning Assessment Enhanced by Language Models </h3>
 
-Abstract. We present an educational framework that automates the
+Abstract.
+
+We present an educational framework that automates the
 generation and assessments of questionnaires without domain-specific
 and language constraints by leveraging Natural Language Processing
 (NLP) and advanced Language Models (LMs) to internalize Bloom’s
